@@ -1,0 +1,132 @@
+*{
+    margin: 6px;
+    padding: 2px;
+    background-color:#33c496; 
+}
+.container{
+    border: 7px solid rgb(228, 236, 231);
+    border-top: 7px solid rgb(24, 27, 44);
+    background-size: cover;
+    align-items: center;
+    display:flex;
+}
+h1{
+    color: rgb(13, 14, 14);
+}
+.form{
+    border-radius: 8px;
+    border: 3px solid rgb(13, 13, 14);
+    width: 600px;
+    position:absolute;
+    margin-left: 33%;
+    margin-top: -500px;
+    outline: none;   
+}
+img{
+    width: 50vh;   
+}
+.form input{
+    background: transparent;
+    color: rgb(16, 17, 17);
+    border: 2px solid rgb(11, 12, 12);
+    height: 25px;
+    width: 215px;
+    border-radius: 4px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 12px;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    margin-left: 35px;  
+}
+.form button{
+    width: 250px;
+    color: rgb(241, 239, 239);
+    border: 2px solid rgb(15, 15, 15);
+    margin-left: 155px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: black;  
+}
+.form h1{
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 15px;
+    margin-left: 30%;
+}
+.form a{
+    color: rgb(1, 1, 241);
+    text-decoration: none;
+}
+.form p{
+    color: rgb(12, 11, 11);
+    margin-left: 205px;
+  
+}
+.form button:hover{
+    font-size: 16px;
+    color: rgb(8, 8, 8);
+    background-color: rgb(240, 230, 230);
+    transition: 0.5s;
+}
+.form ::placeholder{
+    color: rgb(13, 14, 14);
+    
+}
+.circle{
+    border-radius: 7px;
+    background-color: rgb(221, 238, 238);
+    position:relative;
+    width: 50px;
+    height: 50px;
+    margin: -15px ;
+    border: 2px solid rgb(8, 8, 8);
+    margin-left: 95%;
+}
+.box2{
+    
+    border-radius: 8px;
+    background-color: rgb(217, 235, 235);
+    position:absolute;
+    width: 50px;
+    height:50px;
+    margin-top:20px ;
+    border: 2px solid rgb(15, 15, 15);
+    margin-top: -80%;
+    margin-left: -33px;
+}
+.img2{ 
+    margin-left: 73%;
+    margin-top: -45%;
+}
+h2{
+    color: aqua;
+    width: 20px;
+    margin-left: 90%;
+    height: 1vh;
+}
+i{
+    color: rgb(28, 29, 29);
+}
+i{
+    color: rgb(17, 17, 17);
+    background: none;
+    padding: 10px;
+}
+.plane{
+    width: 10px;
+    margin-left: 90%;
+    height: 15px;
+    margin-top: 20px;
+}
+::placeholder{
+    padding: 0% 1% 1% 1%;
+}
+
+
+
+
+
+
+
+
